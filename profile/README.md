@@ -14,7 +14,6 @@ Here are the repositories available in this organization:
 
 - [did-docs](https://github.com/hei-isc-did/did-docs): This repository contains all the course materials, including lecture slides, scipts, exercises, laboratory and projects documents.
 - [did-labs](https://github.com/hei-isc-did/did-labs): This repository contains additional resources for the laboratories.
-- [did-kart-ebs3](https://github.com/hei-synd-did/did-kart-ebs3): This repository contains the HDL Project for the SummerSchool I R/C Kart Project.
 - [did-display](https://github.com/hei-isc-did/did-display): This repository contains the HDL Project and additional resources for the Semester Project Display.
 - [did-chrono](https://github.com/hei-isc-did/did-chrono): This repository contains the HDL Project and additional resources for the Semester Project Chrono.
 
